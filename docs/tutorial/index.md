@@ -428,7 +428,7 @@ Install SystemJS via
 npm install --save-dev systemjs
 ```
 
-And then load either or both entry points in an HTML page as needed:
+And then load either or bothi entry points in an HTML page as needed:
 
 ```html
 <!doctype html>
